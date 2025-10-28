@@ -13,6 +13,6 @@ It uses the `LinearRegression` model from scikit-learn to learn a linear relatio
 ##  How to run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simple-ml-example.git
+   https://github.com/MAQHAWE07124737307/Machine-Learning.git
    cd simple-ml-example
 
